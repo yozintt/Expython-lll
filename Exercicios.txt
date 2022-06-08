@@ -1,0 +1,44 @@
+1. Escreva um algoritmo que leia uma sequencia de N números inteiros e mostre essa sequência ao contrario, no final de sua execução. O valor de N (máximo 50)
+deve ser informado pelo usuário.
+
+2. Escreva um algoritmo que leia a pontuação de N (máximo 50) times de um campeonato 
+de futebol. O programa deve mostrar, ao final, qual a pontuação dos campeões, bem como 
+mostrar quantos times dividiram o título.
+
+3. Escreva um algoritmo que peça ao usuário 10 números, calcule e mostre a média desses 
+10 números e mostre ainda quantos, desses números, são maiores que a média.
+
+4. Escreva um algoritmo que simule o lançamento de dois dados. O programa deve lançar 
+dois dados, sorteando um número aleatório entre 1 e 6 para cada um. A soma dos dois 
+valores deve então ser calculada (como cada dado pode mostrar um valor inteiro de 1 a 6, a 
+soma dos valores ira variar de 2 a 12). O programa deve lançar os dados 36000 vezes e 
+contar quantas vezes cada soma ocorreu.
+
+5. Faça um algoritmo que leia um vetor com dez números reais, calcule e mostre a 
+quantidade de números negativos e a soma dos números positivos desse vetor.
+
+6. Faça um algoritmo que leia um vetor com 15 posições, calcule e mostre:
+a) O maior elemento do vetor e em que posição esse elemento se encontra;
+b) O menor elemento do vetor e em que posição esse elemento se encontra.
+
+7. Faça um algoritmo que leia um primeiro vetor de tamanho 10 e copie seu conteúdo em 
+um segundo vetor.
+
+8. Faça um algoritmo que leia 2 vetores de 10 posições e some os elementos de mesma 
+posição e armazene o resultado em um terceiro vetor (também de 10 posições).
+
+9. Faça um algoritmo que leia um vetor de 20 posições e uma variável A. A seguir, 
+armazene em um outro vetor o produto da variável A pelo primeiro vetor.
+
+10. Elaborar um algoritmo que leia um conjunto de 30 valores e os coloque em 2 vetores 
+conforme estes valores forem pares ou ímpares. O tamanho dos vetores é de 15 posições. Se
+algum vetor estiver cheio, escrever uma mensagem informando que o vetor já está cheio. 
+Terminada a leitura, escrever o conteúdo dos dois vetores
+
+11. Um time de basquete possui 12 jogadores. Elabore um algoritmo que leia dois vetores 
+NOME e ALTURA, calcule e imprima o nome do jogador mais alto e a sua altura.
+
+12. Elabore um algoritmo que dado três vetores reais de 5 posições, leia estes vetores 
+(usando uma estrutura de repetição), calcule a expressão ((vetor1 * vetor3) / vetor2 ), 
+utilizando os valores da mesma posição, armazenando em um quarto vetor, também de 
+números reais de 5 posições. No final, imprima os números do quarto vetor.
